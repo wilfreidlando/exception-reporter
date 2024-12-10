@@ -1,5 +1,5 @@
 {
-    "name": "wilfreidlando/alertbug",
+    "name": "alertbug/alertbug",
     "description": "Capture and send Laravel exceptions to an external API.",
     "type": "library",
     "license": "MIT",
