@@ -47,7 +47,7 @@
 4. Add the following variables to your project's `.env` file:
    ```php
     ALERTBUG_API_KEY=your-api-key
-    ALERTBUG_API_URL=http://example.com/api/erreurs
+    ALERTBUG_API_URL=http://example.com/api/bugs
     ALERTBUG_ENABLED=true
 
    ```
@@ -84,7 +84,7 @@ ALERTBUG_ENABLED=true
 ### Install Locally
 Clone the repository and use Composer to install dependencies:
 ```bash
-git clone https://github.com/your-username/alertbug.git
+git clone https://github.com/wilfreidlando/exception-reporter.git
 cd alertbug
 composer install
 ```
