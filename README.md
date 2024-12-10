@@ -65,7 +65,7 @@ The configuration file `config/alertbug.php` provides options to customize the p
 Add these environment variables to your `.env` file:
 ```dotenv
 ALERTBUG_API_KEY=your-api-key
-ALERTBUG_API_URL=http://example.com/api/erreurs
+ALERTBUG_API_URL=http://example.com/api/bugs
 ALERTBUG_ENABLED=true
 ```
 
@@ -121,5 +121,5 @@ This package is open-sourced software licensed under the [MIT license](LICENSE).
 
 ## Credits
 
-Developed by [Wilfried Lando](mailto:wilfriedlando@gmail.com).
+Developed by [Wilfreid Lando](mailto:wilfreidlando@gmail.com).
 ```
