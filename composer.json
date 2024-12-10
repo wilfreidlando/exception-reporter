@@ -5,8 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your-email@example.com"
+            "name": "Wilfried Lando",
+            "email": "Wilfriedlando@gmail.com"
         }
     ],
     "require": {
@@ -26,7 +26,6 @@
             ]
         }
     },
-    "version": "1.0.0",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
